@@ -1,9 +1,9 @@
 package com.programacion2.nombres;
 
 public class Oscar {
-    float edad 24;
-    float altura 177;
-    int suspensos 3;
+    private int edad 24;
+    private int altura 177;
+    private int suspensos 3;
 
 
 }
